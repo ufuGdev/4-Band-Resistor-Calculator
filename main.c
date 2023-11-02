@@ -1,6 +1,6 @@
 //
-//  Ufuk Güneþ 220401036 
-//  Çanakkale 18 Mart Üniversiyesi
+//  Ufuk Güneş 220401036 
+//  Çanakkale 18 Mart Üniversitesi
 //  4-Band Resistor Calculator
 //  Analog Elektrik
 //  Project-1
