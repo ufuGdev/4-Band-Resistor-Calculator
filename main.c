@@ -1,9 +1,10 @@
 //
-//  Ufuk Güneþ 220401036
-//  4-Bantlý Direnç Hesaplama C Kodu
-//  Analaog Elektrik
+//  Ufuk GÃ¼neÃ¾ 220401036 
+//  Ã‡anakkale 18 Mart Ãœniversiyesi
+//  4-Band Resistor Calculator
+//  Analog Elektrik
+//  Project-1
 //
-
 #include <stdio.h>
 #include <stdlib.h>
 float renkSec(float x){
